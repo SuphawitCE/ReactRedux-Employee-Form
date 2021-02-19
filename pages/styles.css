@@ -1,0 +1,73 @@
+
+.user-form #info-form {
+  position: initial;
+  /*margin: center;*/
+  margin-top: 2em;
+  margin-right: 20%;
+  margin-left: 27%;
+  padding: 33px;
+  padding-left: 60px;
+  
+}
+
+.record-form {
+
+  margin-top: 50px;
+  margin-left: 10%;
+  margin-right: 12%;
+}
+
+.user-form #title {
+  margin-right: 30px;
+  margin-left: 5px;
+}
+
+.user-form #firstname {
+  margin-right: 30px;
+  margin-bottom: 20px;
+}
+
+/*
+.user-form #gender {
+  margin-left: 5px;
+  margin-right: 20px;
+}
+*/
+
+.user-form #citizenid {
+  margin-top: 20px;
+  margin-left: 5px;
+  margin-bottom: 20px;
+}
+
+.user-form #birthday {
+  margin-top: 10px;
+  margin-left: 10px;
+  margin-right: 90px;
+  margin-bottom: 20px;
+}
+
+.record-form .recSelect {
+  width: 3%;
+}
+
+.record-form .recName{
+  width: 20%;
+}
+
+.record-form .recGender {
+  width: 5%
+}
+
+.record-form .recMobile {
+  width: 18%
+}
+
+.record-form .recNationality {
+  width: 9%;
+}
+
+.record-form .recOperator {
+  width: 10%
+}
+
